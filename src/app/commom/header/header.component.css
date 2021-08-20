@@ -1,0 +1,9 @@
+.navbar-brand{
+    height: 5vh;
+  }
+  
+  .navbar-item > img {
+    margin: 10px 0;
+    height: 50%;
+  }
+  

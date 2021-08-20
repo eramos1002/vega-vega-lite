@@ -1,0 +1,67 @@
+{
+	"status": "success",
+	"result": {
+		"data": [{
+				"rack": "SC1-A1",
+				"occupiedUs": 42,
+				"site": "default",
+				"room": "default"
+			},
+			{
+				"rack": "SC2-A1",
+				"occupiedUs": 41,
+				"site": "default",
+				"room": "default"
+			},
+			{
+				"rack": "SC1-A2",
+				"occupiedUs": 40,
+				"site": "default",
+				"room": "default"
+			},
+			{
+				"rack": "SC1-A3",
+				"occupiedUs": 40,
+				"site": "default",
+				"room": "default"
+			},
+			{
+				"rack": "SC2-A2",
+				"occupiedUs": 40,
+				"site": "default",
+				"room": "default"
+			},
+			{
+				"rack": "SC1-A4",
+				"occupiedUs": 39,
+				"site": "default",
+				"room": "default"
+			},
+			{
+				"rack": "SC1-A5",
+				"occupiedUs": 39,
+				"site": "default",
+				"room": "default"
+			},
+			{
+				"rack": "SC2-A3",
+				"occupiedUs": 39,
+				"site": "default",
+				"room": "default"
+			},
+			{
+				"rack": "SC1-A6",
+				"occupiedUs": 38,
+				"site": "default",
+				"room": "default"
+			},
+			{
+				"rack": "SC2-A4",
+				"occupiedUs": 38,
+				"site": "default",
+				"room": "default"
+			}
+		]
+
+	}
+}

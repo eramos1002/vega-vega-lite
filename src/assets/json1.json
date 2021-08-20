@@ -1,0 +1,146 @@
+{
+  "timestamp": "17-08-2021",
+  "sites": [
+    {
+      "site": "default",
+      "room": "default",
+      "data": [
+        {
+          "rack": "SC1-A1",
+          "occupiedUs": 42
+        },
+        {
+          "rack": "SC2-A1",
+          "occupiedUs": 41
+        },
+        {
+          "rack": "SC1-A2",
+          "occupiedUs": 40
+        },
+        {
+          "rack": "SC1-A3",
+          "occupiedUs": 40
+        },
+        {
+          "rack": "SC2-A2",
+          "occupiedUs": 40
+        },
+        {
+          "rack": "SC1-A4",
+          "occupiedUs": 39
+        },
+        {
+          "rack": "SC1-A5",
+          "occupiedUs": 39
+        },
+        {
+          "rack": "SC2-A3",
+          "occupiedUs": 39
+        },
+        {
+          "rack": "SC1-A6",
+          "occupiedUs": 38
+        },
+        {
+          "rack": "SC2-A4",
+          "occupiedUs": 38
+        }
+      ]
+    }
+    {
+      "site": "Parets del Vallès",
+      "rooms": [
+        {
+          "room": "P1",
+          "data": [
+            {
+              "rack": "SC1-A1",
+              "occupiedUs": 42
+            },
+            {
+              "rack": "SC1-A2",
+              "occupiedUs": 40
+            },
+            {
+              "rack": "SC1-A3",
+              "occupiedUs": 40
+            },
+            {
+              "rack": "SC1-A4",
+              "occupiedUs": 39
+            },
+            {
+              "rack": "SC1-A5",
+              "occupiedUs": 39
+            },
+            {
+              "rack": "SC1-A6",
+              "occupiedUs": 38
+            },
+            {
+              "rack": "SC1-A7",
+              "occupiedUs": 37
+            },
+            {
+              "rack": "SC1-A8",
+              "occupiedUs": 36
+            },
+            {
+              "rack": "SC1-A9",
+              "occupiedUs": 34
+            },
+            {
+              "rack": "SC1-A10",
+              "occupiedUs": 33
+            }
+          ]
+        },
+        {
+          "room": "P2",
+          "data": [
+            {
+              "rack": "SC2-A1",
+              "occupiedUs": 41
+            },
+            {
+              "rack": "SC2-A2",
+              "occupiedUs": 40
+            },
+            {
+              "rack": "SC2-A3",
+              "occupiedUs": 39
+            },
+            {
+              "rack": "SC2-A4",
+              "occupiedUs": 38
+            },
+            {
+              "rack": "SC2-A5",
+              "occupiedUs": 35
+            },
+            {
+              "rack": "SC2-A6",
+              "occupiedUs": 34
+            },
+            {
+              "rack": "SC2-A7",
+              "occupiedUs": 33
+            },
+            {
+              "rack": "SC2-A8",
+              "occupiedUs": 32
+            },
+            {
+              "rack": "SC2-A9",
+              "occupiedUs": 30
+            },
+            {
+              "rack": "SC2-A10",
+              "occupiedUs": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
